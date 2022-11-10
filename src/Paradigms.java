@@ -1,4 +1,5 @@
-package figureas;
+import figureas.Circle;
+import figureas.Rectangle;
 
 public class Paradigms {
 
